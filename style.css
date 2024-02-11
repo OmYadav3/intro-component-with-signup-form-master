@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-body{
+/* body{
     /* Blue: hsl(248, 32%, 49%);
     Dark Blue: hsl(249, 10%, 26%); 
     Grayish Blue: hsl(246, 25%, 77%);
@@ -12,5 +12,36 @@ body{
     Weights: 400, 500, 600, 700
     Red: hsl(0, 100%, 74%); 
     Green: hsl(154, 59%, 51%); */
+
+/* } */ 
+.main-section {
+    /* margin-top: 2rem; */
+    /* margin: auto; */
+    /* width: 60%; */
+    height: 100%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+.first-section {
+    margin: auto;
+    /* margin-top: 2rem; */
+    width: 60%;
+    
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+.sec-section {
+    /* margin-top: 2rem; */
+    margin: auto;
+    width: 35%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+.fex{
+display: flex;
+flex-direction: column;
 
 }
