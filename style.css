@@ -115,7 +115,7 @@ span{
   border-color: red;
 }
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 575px){
   .main-section{
     display: flex;
     flex-direction: column;
